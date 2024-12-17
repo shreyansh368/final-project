@@ -1,4 +1,4 @@
- #!/bin/bash
+ #!/bin/bash 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
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
    # Do not use this in production. Sample purpose only.
